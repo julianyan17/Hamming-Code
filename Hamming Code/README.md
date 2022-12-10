@@ -1,6 +1,6 @@
-Author: Julian Yan 
-Date: 1/22/2019
-Title: Hamming Code
+Author: Julian Yan  
+Date: 1/22/2019  
+Title: Hamming Code  
 
 Contents: 
 * Hamming.java 
